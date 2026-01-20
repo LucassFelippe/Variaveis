@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variaveis.iml" filepath="$PROJECT_DIR$/Variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datahora/datahora.iml" filepath="$PROJECT_DIR$/datahora/datahora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamento/encapsulamento.iml" filepath="$PROJECT_DIR$/encapsulamento/encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heranca.polimofismo/heranca.polimofismo.iml" filepath="$PROJECT_DIR$/heranca.polimofismo/heranca.polimofismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ifelse/ifelse.iml" filepath="$PROJECT_DIR$/ifelse/ifelse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lacos.repeticao/lacos.repeticao.iml" filepath="$PROJECT_DIR$/lacos.repeticao/lacos.repeticao.iml" />
+    </modules>
+  </component>
+</project>
