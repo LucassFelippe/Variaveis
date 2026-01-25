@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/heranca.polimofismo/heranca.polimofismo.iml" filepath="$PROJECT_DIR$/heranca.polimofismo/heranca.polimofismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ifelse/ifelse.iml" filepath="$PROJECT_DIR$/ifelse/ifelse.iml" />
       <module fileurl="file://$PROJECT_DIR$/lacos.repeticao/lacos.repeticao.iml" filepath="$PROJECT_DIR$/lacos.repeticao/lacos.repeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string.regex/string.regex.iml" filepath="$PROJECT_DIR$/string.regex/string.regex.iml" />
     </modules>
   </component>
 </project>
