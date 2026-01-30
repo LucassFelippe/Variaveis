@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variaveis.iml" filepath="$PROJECT_DIR$/Variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/colections.streams/colections.streams.iml" filepath="$PROJECT_DIR$/colections.streams/colections.streams.iml" />
       <module fileurl="file://$PROJECT_DIR$/datahora/datahora.iml" filepath="$PROJECT_DIR$/datahora/datahora.iml" />
       <module fileurl="file://$PROJECT_DIR$/encapsulamento/encapsulamento.iml" filepath="$PROJECT_DIR$/encapsulamento/encapsulamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/heranca.polimofismo/heranca.polimofismo.iml" filepath="$PROJECT_DIR$/heranca.polimofismo/heranca.polimofismo.iml" />
